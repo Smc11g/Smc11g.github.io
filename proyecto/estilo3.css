@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white
+}
+h2 {
+    font-size: xx-large;
+}
+nav ul{
+    font-size: 70px;
+    padding: 100px;
+    border-right: 3px solid black;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+
+}
+a{
+    text-decoration: none;
+    font-size: 70px;
+    color: black;
+}

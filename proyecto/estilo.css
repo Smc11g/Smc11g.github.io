@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white
+    
+}
+nav ul{
+    text-align: center;
+    background-color: darkgray;
+    width: 100%;
+    list-style: none
+
+}
+nav li {
+    display:inline-flex;
+
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover{
+    background-color: black;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    
+    padding-left: 10px;
+    object-fit: cover;
+    height: 480px;
+    margin-bottom: 50px;
+   
+}
+p{
+    font-size: xx-large;
+    padding-top: 40px;
+    
+}
